@@ -1,0 +1,114 @@
+body{
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+.rounded-circle
+{
+	padding:20px;
+    height: 150px;
+    width: 200px;	
+}
+.page-header
+{
+border-bottom: 1px solid darkgrey;
+}
+
+.col-sm-4
+{
+    font-size:25px;
+    padding: 40px;
+    font-weight:lighter;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    color: black
+}
+.col-sm-5
+{
+  padding: 30px;
+    
+}
+.mein-menu
+		{
+      
+      padding-top: 10px;
+      padding-bottom: 5px;
+      font-weight: bolder;
+		}
+.mein-menu .nav li a
+{
+  color: black;
+  font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+	background: none;
+	}  
+.mein-menu .nav li a:hover
+{
+	border-bottom: 1px solid #fff;
+}
+.mein-menu .nav .dropdown-menu
+{
+  
+  width: 100px;
+}
+.mein-menu .nav .dropdown-menu .dropdown-item
+{
+	
+	color:black;
+	padding:10px;
+	padding-bottom:10px;
+}         
+
+  .split {
+    height:70%;
+    width: 43%;
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    overflow: hidden;
+  
+  }
+  
+  .left {
+    left:0;
+    background-color:white;
+    }
+  
+  .right {
+    right: 5px;
+    background-color: white;
+       
+  }
+  .well
+  {
+      background-color: white;
+      margin-top: 200px;
+      height: 700px;
+      width: 600px;
+      margin-left: 250px;
+          
+  }
+  .card-header
+  {
+      padding: .65rem;
+      margin-bottom: 1rem;
+      background-color: rgba(5,5,5,.09);
+  }
+  .page-footer
+{
+  position:absolute;
+  background-color:gray;
+  top: 190%;  
+  color:white;
+  width: 100%;
+  
+}
+.rounded
+{
+  height: 50px;
+  width: 50px;
+}
+  
+
+ 
